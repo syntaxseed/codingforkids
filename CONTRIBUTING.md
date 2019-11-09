@@ -13,7 +13,8 @@ Resources should be positive and moderated for age-appropriate, interactions.
 ### Not Permitted In This List
 
 - Resources without an English language option.
-- Violent (beyond cartoon-like youth-oriented video games) themes.
+- Low quality, beta, demo-only or un-polished resources.
+- Violent (beyond cartoon-ish youth-oriented video games) themes.
 - Adult-themed resources.
 - Resources with religious, bigoted, political or non-inclusive themes.
 

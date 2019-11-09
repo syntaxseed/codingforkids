@@ -8,9 +8,16 @@ No reading or only very basic reading required.
 
 ### Apps
 
-- Lightbot App by SpriteBox LLC (Android & iOS). $3
-- Algorithm City Pro App by Musteren (Android). $2
-- CodeSpark Academy & The Foos (Android & iOS). $7.99/m
+- **Lightbot App**. $3
+  - By SpriteBox LLC.
+  - Android & iOS.
+
+- **Algorithm City Pro App**. $2
+  - By Musteren.
+  - Android.
+
+- **CodeSpark Academy & The Foos**. $7.99/m
+  - Android & iOS.
   - Best on tablets.
 
 ### Websites
@@ -28,6 +35,7 @@ No reading or only very basic reading required.
   - Loops: https://youtu.be/eSWCgZBSx_U
   - Functions: https://youtu.be/FFJmAvE4aM0
 
+
 ## Grade 2 - 4
 
 Light reading skills required.
@@ -44,6 +52,7 @@ Light reading skills required.
 - **Tynker.com** - Ages 7+.
   - Family plan (4 students): $15/m or $270 lifetime.
   - Visual based coding with simple syntax. Reading required. Gameified learning. Browser based.
+
 
 ## Grades 5 - 8
 
