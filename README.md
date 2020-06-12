@@ -45,6 +45,7 @@ Light reading skills required.
 - **Code.org** - CS Fundamentals (grades K-5). Free.
   - Pre-Reader Courses C & D 2018.
   - Pre-Reader Courses E & F.
+  - MineCraft Hour Of Code - https://code.org/minecraft (grades 2+).
 
 - **Rabbids Coding** - https://register.ubisoft.com/rabbids-coding/
   - TODO - details.
@@ -62,6 +63,7 @@ Light reading skills required.
   - CS Discoveries (grades 6-10).
     - 6 Units.
   - CS Principles (grades 9-12).
+  - MineCraft Hour Of Code - https://code.org/minecraft (grades 2+).
 
 - **Code Academy** - https://www.codecademy.com. Free & Paid.
   - Learning real programming languages and programming concepts.
