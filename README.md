@@ -36,7 +36,7 @@ No reading or only very basic reading required.
   - Functions: https://youtu.be/FFJmAvE4aM0
 
 
-## Grade 2 - 4
+## Grade 2 - 3
 
 Light reading skills required.
 
@@ -54,7 +54,7 @@ Light reading skills required.
   - Visual based coding with simple syntax. Reading required. Gameified learning. Browser based.
 
 
-## Grades 5 - 8
+## Grades 4 - 8
 
 - **Code.org** - Free.
   - CS Fundamentals (grades K-5).
@@ -86,6 +86,11 @@ Light reading skills required.
   - Properties: https://youtu.be/hhVoBsDqJXI
   - Object Oriented Programming: https://youtu.be/vFLZHx3L190
   - Classes: https://youtu.be/BZ8r7pC9bHY
+
+- **Microsoft MakeCode** - https://www.microsoft.com/en-ca/makecode. Free.
+  - Visual Programming.
+  - Project based learning (no guided courses).
+  - Similar to Scratch.
 
 - **Scratch** - https://scratch.mit.edu. Free.
   - Visual Programming.
