@@ -105,3 +105,25 @@ Light reading skills required.
 - **Stencyl** - http://www.stencyl.com/. Free+.
   - Block based drag-and-drop coding editor for making real games.
   - Free for only publishing to the web. Reasonable price for other publishing platforms.
+
+## Teens & Up - Gameified Learning
+
+- **Command Line Mystery** https://github.com/veltman/clmystery. Free.
+  - Learn the Linux command line by solving a text-based mystery.
+
+- **CSS Grid Critters** https://gridcritters.com/. $99.
+  - Learn CSS grid concepts with a fun adventure game structured like a full course.
+
+- **OverTheWire Wargames** https://overthewire.org/wargames/. Free.
+  - Server security, SSH, command line concepts.
+  - Connect to real servers and solve puzzles.
+
+- **SQL Murder Mystery** http://mystery.knightlab.com/. Free.
+  - Practise SQL commands with a web-based mystery.
+
+- **Twilio Quest** - https://www.twilio.com/quest. Free.
+  - Installable PC game.
+  - Teaches Javascript, PHP, Python and more.
+  - Guided game-based mission and story.
+  - Helps you install a real local development environment.
+
