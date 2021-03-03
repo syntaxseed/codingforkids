@@ -6,7 +6,32 @@
             alt="follow on Twitter"></a>&nbsp;&nbsp;<a href="https://syntaxseed.com/about/donate"><img src="https://img.shields.io/badge/Sponsor-Project-blue" alt="Sponsor Project" /></a>
 </div>
 
-This list contains English resources for pre-school and elementary school aged children to learn coding either online or via native apps.
+This list contains English resources for pre-school and elementary school aged children to learn coding and computer skills either online or via native apps.
+
+## Learn To Type
+
+It is recommended to use a full-size keyboard and keep your fingers in the proper position while you learn to use these resources. Can be helpful for learners of all ages.
+
+### Beginner
+
+- **BBC Dance Mat Typing**. Free.
+  - https://www.bbc.co.uk/bitesize/topics/zf2f9j6/articles/z3c6tfr
+  - Levels 1-4.
+- **Typing.com Lessons**. Free.
+  - https://www.typing.com/student/lessons
+  - Account creation optional.
+- **TypingClub**. Free.
+  - https://www.typingclub.com/
+  - Account creation optional.
+
+### Improve Accuracy & Speed
+
+- **Typing.com Games**. Free.
+  - https://www.typing.com/student/games
+  - Account creation optional.
+- **NitroType**. Free with premium upgrades.
+  - https://www.nitrotype.com/
+  - Account creation optional.
 
 ## Pre-School - Grade 1
 
