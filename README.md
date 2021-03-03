@@ -1,5 +1,11 @@
 # Coding Resources For Kids
 
+<div align="center">
+    <a href="https://twitter.com/intent/follow?screen_name=syntaxseed">
+        <img src="https://img.shields.io/twitter/follow/syntaxseed.svg?style=social&logo=twitter"
+            alt="follow on Twitter"></a>&nbsp;&nbsp;<a href="https://syntaxseed.com/about/donate"><img src="https://img.shields.io/badge/Sponsor-Project-blue" alt="Sponsor Project" /></a>
+</div>
+
 This list contains English resources for pre-school and elementary school aged children to learn coding either online or via native apps.
 
 ## Pre-School - Grade 1
@@ -126,4 +132,3 @@ Light reading skills required.
   - Teaches Javascript, PHP, Python and more.
   - Guided game-based mission and story.
   - Helps you install a real local development environment.
-
