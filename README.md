@@ -145,6 +145,10 @@ Light reading skills required.
 - **CSS Grid Critters** https://gridcritters.com/. $99.
   - Learn CSS grid concepts with a fun adventure game structured like a full course.
 
+- **Oh My Git!** https://ohmygit.org/. Free.
+  - Learn Git version control with visual and command line controls.
+  - In the context of a time-travel story.
+
 - **OverTheWire Wargames** https://overthewire.org/wargames/. Free.
   - Server security, SSH, command line concepts.
   - Connect to real servers and solve puzzles.
