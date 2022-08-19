@@ -107,6 +107,13 @@ Light reading skills required.
   - You can preview it anonymously.
   - DON'T use 3rd party sign in, because the delete account and reset progress don't seem to work. Says wrong password.
 
+- **Fruit Bots** - http://www.fruitbots.com/. Free.
+  - Coding sandbox for Python, Javascript, Ruby &amp; Lua.
+  - Write a bot that competes to find fruit on a grid against an oponent.
+  - Download the sourcecode here: https://github.com/scribd/robot-fruit-hunt.
+  - Upload your bot to the website and compete against others.
+  - Useful for coding workshops, classes or camps.
+
 - **Khan Academy** - https://www.khanacademy.org/computing/computer-programming.
   - Free and donation based.
   - Math, science and computer related courses - mainly videos but also simple hands on exercises.
