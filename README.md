@@ -1,9 +1,9 @@
 # Coding Resources For Kids & All Ages
 
 <div align="center">
-    <a href="https://twitter.com/intent/follow?screen_name=syntaxseed">
-        <img src="https://img.shields.io/twitter/follow/syntaxseed.svg?style=social&logo=twitter"
-            alt="follow on Twitter"></a>&nbsp;&nbsp;<a href="https://syntaxseed.com/about/donate"><img src="https://img.shields.io/badge/Sponsor-Project-blue" alt="Sponsor Project" /></a>
+    <a href="https://phpc.social/@syntaxseed">
+        <img src="https://img.shields.io/badge/dynamic/json?label=Mastodon&query=totalItems&url=https%3A%2F%2Fphpc.social%2Fusers%2Fsyntaxseed%2Ffollowers.json&logo=mastodon"
+            alt="follow on Twitter"></a>&nbsp;&nbsp;<a href="[https://syntaxseed.com/about/donate](https://github.com/syntaxseed#donatecontribute)"><img src="https://img.shields.io/badge/Sponsor-Project-blue" alt="Sponsor Project" /></a>
 </div>
 
 This list contains English resources for a variety of ages and skill levels to learn coding and computer skills either online or via native apps. Great to get kids and all skill levels started with coding.
